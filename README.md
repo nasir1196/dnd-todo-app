@@ -1,5 +1,5 @@
 # DND Todo Application 
-## [Todo-Live](https://dndtodoapp.vercel.com)
+## [Todo-Live](https://dndtodoapp.vercel.app/)
 
 ### Using Technology
 * Next-14
